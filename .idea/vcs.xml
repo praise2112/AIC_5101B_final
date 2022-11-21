@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Final Project/darknet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Final Project/darknet/scripts/coco" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Final Project/yolov5_train_test/yolov5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/darknet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/darknet/scripts/coco" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yolov5_train_test/yolov5" vcs="Git" />
+  </component>
+</project>
